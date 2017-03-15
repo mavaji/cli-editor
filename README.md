@@ -1,5 +1,5 @@
 # stringlist
-A simple cli editor using an internal linked list data structure
+A simple cli editor using an internal linked list data structure.<br>
 It comprises of 5 commands:<br> 
 * `i <line_number> <text>` for insert a line
 * `a <line_number> <text>` for append to a line
